@@ -6,3 +6,4 @@ The first coding assignment in the Gen AI Externship. Practicing and mastering t
 Link to the Colab I made to host the code: [Google Colab Link](https://colab.research.google.com/drive/1dvQduvMAUwV293vsbr7nNrAf2ojcW995?usp=sharing)
 
 ### Project: Eligible Elector
+Practicing basic conditional loops to the project. (if, elif, else)
